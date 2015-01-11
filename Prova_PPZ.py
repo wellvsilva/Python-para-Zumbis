@@ -16,7 +16,7 @@
 # questão vale 5 pontos. Lembre  que você  poderá enviar seu código, com
 # suas dúvidas para socorro@pycursos.com e  receberá ajuda. Somos poucos
 # para responder, portanto  talvez a resposta não seja imediata, aguarde,
-# por favor. Novamente boa sorte e bom aprendizado!
+# por favor. Novamente boa sorte e bom aprendizado!!
 
 # alô_mundo
 # retorne 'Alô Mundo' para não ficar com zero na provinha
